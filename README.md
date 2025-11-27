@@ -63,7 +63,7 @@ car_price_prediction/
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/!!!!!!!!!!!!/car-price-prediction.git
+git clone https://github.com/Nerol1m/CarPricePrediction
 cd car-price-prediction
 
 # 2. Установить зависимости
