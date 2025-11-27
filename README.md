@@ -64,10 +64,10 @@ car_price_prediction/
 ```bash
 # 1. Клонировать репозиторий
 git clone https://github.com/Nerol1m/CarPricePrediction
-cd car-price-prediction
+cd CarPricePrediction
 
 # 2. Установить зависимости
-pip install -r requirements.txt
+pip install -r requirements_full.txt
 
 # 3. Запустить Jupyter для анализа
 jupyter notebook
@@ -75,6 +75,11 @@ jupyter notebook
 # 4. Запустить веб-приложение
 streamlit run app.py
 ```
+## 🚀 Приложение
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://petcarpriceprediction.streamlit.app/)
+
+**Примечание:** Это учебный проект с синтетическими данными, не предназначен для коммерческого использования.
 
 ## 👥 Автор
 - Nerol1m - https://github.com/Nerol1m
